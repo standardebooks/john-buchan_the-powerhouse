@@ -44,14 +44,15 @@
 		<meta id="collection-1" property="belongs-to-collection">Edward Leithen</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A secret criminal organization is uncovered after an M.P.’s friend goes missing.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Edward Leithen is a young &lt;abbr&gt;M.P.&lt;/abbr&gt;, barrister, and rising man in London society. When one of his old friends goes missing, Leithen decides to investigate. He discovers that some element of danger was involved in his friend’s flight, and from that point events spiral beyond his control. Along with a couple friends whose help he has sought, Leithen finds himself facing the wrath of a powerful and sinister secret organization.&lt;/p&gt;
+			&lt;p&gt;While this yarn carries the reader along with its fast-paced events, drama, and danger, it still allows for some measured reflections on the political nature of a technocratic society. One of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan&lt;/a&gt;’s most celebrated quotes is uttered in a dialogue between Leithen and the leader of the “Powerhouse:” “You think that a wall as solid as the earth separates civilisation from barbarism. I tell you the division is a thread, a sheet of glass.”&lt;/p&gt;
+			&lt;p&gt;In many respects, Leithen is an alter-ego for Buchan himself. Buchan’s sense that the combination of unlimited wealth with technocratic power holds ominous implications looks acutely prescient from this vantage point in the 21st century.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57631</dc:source>
 		<dc:source>https://archive.org/details/powerhouse0000unse_v9l8</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Power-House</meta>
@@ -61,10 +62,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_Buchan</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79045167</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Trotter</dc:contributor>
+		<meta property="file-as" refines="#artist">Trotter</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
