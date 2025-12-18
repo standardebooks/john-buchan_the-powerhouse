@@ -16,7 +16,7 @@
 	font-size: larger;
 }
 
-#dedication p:first-of-type{
+#dedication > p:first-of-type{
 	font-variant: small-caps;
 }
 
@@ -25,8 +25,7 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="dedication"] p + p,
-blockquote p{
+[epub|type~="dedication"] p + p{
 	text-indent: 0;
 }
 
