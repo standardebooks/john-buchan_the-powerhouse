@@ -52,7 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57631</dc:source>
 		<dc:source>https://archive.org/details/powerhouse0000unse_v9l8</dc:source>
-		<meta property="se:word-count">32984</meta>
+		<meta property="se:word-count">32676</meta>
 		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Power-House</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-buchan_the-powerhouse</meta>
